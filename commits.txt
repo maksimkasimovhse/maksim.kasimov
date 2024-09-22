@@ -1,4 +1,8 @@
 C1
 C2
 C4
+<<<<<<< HEAD
 C3
+=======
+C5
+>>>>>>> maksim.kasimov
